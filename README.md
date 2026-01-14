@@ -37,8 +37,8 @@
 
 | # | Recipe | Difficulty | Time | Direct Import Link |
 |---|--------|-----------|------|-------------------|
-| 1 | **Energy Analytics Agent** | ⭐ Beginner | 5 min | [📓 Import Notebook](https://raw.githubusercontent.com/[your-username]/teradata-ai-agent-cookbook/main/recipes/01-energy-analytics-agent.ipynb) |
-| 2 | **Multi-Agent Customer Journey** | ⭐⭐ Intermediate | 10 min | [📓 Import Notebook](https://raw.githubusercontent.com/[your-username]/teradata-ai-agent-cookbook/main/recipes/02-customer-journey-agent.ipynb) |
+| 1 | **Energy Analytics Agent** | ⭐ Beginner | 5 min | [📓 Import Notebook]([https://raw.githubusercontent.com/[your-username]/teradata-ai-agent-cookbook/main/recipes/01-energy-analytics-agent.ipynb](https://raw.githubusercontent.com/vidhanbhonsle/codebook/refs/heads/main/recipes/01-energy-analytics-agent.ipynb)) |
+| 2 | **Multi-Agent Customer Journey** | ⭐⭐ Intermediate | 10 min | [📓 Import Notebook]([https://raw.githubusercontent.com/[your-username]/teradata-ai-agent-cookbook/main/recipes/02-customer-journey-agent.ipynb](https://raw.githubusercontent.com/vidhanbhonsle/codebook/refs/heads/main/recipes/02-customer-journey-agent.ipynb)) |
 
 ## 🎯 What You'll Build
 
