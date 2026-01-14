@@ -10,7 +10,7 @@
 
 ### Step 0 — Sign up (first time only)
 1. Create a free ClearScape Analytics Experience account at [clearscape.teradata.com](https://clearscape.teradata.com)
-2. Log in to the CSAE console
+2. Log in to the ClearScape Analytics Experience console
 
 ### Step 1 — Launch Jupyter
 1. **Create an environment** in the ClearScape Analytics console  
@@ -68,7 +68,7 @@ Download the full PDF guide with detailed explanations:
 - **ClearScape Analytics Experience** account (free at [clearscape.teradata.com](https://clearscape.teradata.com))
 - **Google Gemini API key** *(optional — only for notebooks that use Gemini)* — get one from [Google AI Studio](https://aistudio.google.com)
 
-### CSAE setup
+### ClearScape Analytics Experience setup
 
 If you're running recipes in **ClearScape Analytics Experience**, follow the **Quick Start** section above to:
 - sign up / log in,
